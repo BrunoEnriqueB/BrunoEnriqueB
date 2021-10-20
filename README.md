@@ -1,7 +1,7 @@
 ### Hey There
 
-##Sobre mim
-##About me
+## Sobre mim
+## About me
 
   Moro no interior de São Paulo desde que nasci. Aos 9 anos, comecei a ter interação com tecnologia, e não parei desde então. 
 Porém em 2020 começei a me dedicar 100% para este mundo tecnológico, aprendendo sobre hardware e, em 2021, ingressei 
