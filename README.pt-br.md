@@ -1,5 +1,9 @@
 <h1>Olá, Me chamo <a  href="https://github.com/BrunoEnriqueB">Bruno Enrique</a><a href=""><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a></h1>
 
+### Outros idiomas: <br>
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/BrunoEnriqueB/BrunoEnriqueB/blob/main/README.en.md)
+
 Sou um **Desenvolvedor Fullstack**, estudo Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Americana (FATEC). Meu dia a dia no trabalho se resume em implementar novas funcionalidades e dar manutenção para aplicações backend e frontend.
 
 Aqui estão algumas das principais tecnologias que eu uso ou já usei no trabalho:

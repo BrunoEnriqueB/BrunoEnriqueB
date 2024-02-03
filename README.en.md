@@ -1,5 +1,9 @@
 <h1>Hi There, I am <a  href="https://github.com/BrunoEnriqueB">Bruno Enrique</a><a href=""><img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a></h1>
 
+### Other languages: <br>
+
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/BrunoEnriqueB/BrunoEnriqueB/blob/main/README.pt-br.md)
+
 I'm a **Fullstack Developer**, student from **Technology Faculty of Americana** in **System Analysis and Development**. My day to day work revolves around develop new features and give maintain to backend and frontend apps.
 
 ## Skill Set
